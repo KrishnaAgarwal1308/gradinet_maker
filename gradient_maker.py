@@ -1,4 +1,3 @@
-from plot_graph import draw_dot
 import math
 class Values:
     def __init__(self, data, _children=(), _op = "", label = "" ):#label=""):
