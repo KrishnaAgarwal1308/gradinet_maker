@@ -1,7 +1,5 @@
 from gradient_maker import Values
 import random
-import torch
-import math
 
 class Neuron:
     def __init__(self, nins):
